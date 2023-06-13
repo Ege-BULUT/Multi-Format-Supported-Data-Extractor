@@ -1,0 +1,4 @@
+Normal text
+Dark text
+Very dark text
+Very dark and small text

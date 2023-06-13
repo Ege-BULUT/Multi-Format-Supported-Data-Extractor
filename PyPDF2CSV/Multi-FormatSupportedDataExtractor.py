@@ -8,7 +8,7 @@ pytesseract.pytesseract.tesseract_cmd = r'Teserract\tesseract.exe'
 
 # Open the PDF file
 document_folder = "PDFs/"
-document_name = "BULUT Logistics.pdf"
+document_name = "Ege BULUT.pdf"
 document_path = document_folder+document_name
 csv_suffix = "_parsed_data"
 

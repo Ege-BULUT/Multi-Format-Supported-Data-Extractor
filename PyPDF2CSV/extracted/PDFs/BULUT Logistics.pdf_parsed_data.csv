@@ -1,0 +1,50 @@
+source_number,source_type,data
+0,text,BULUT
+0,text,LOGISTICS
+0,text,JANUARY 2026
+0,text,CHEMICAL
+0,text,TRANSPORTATION
+0,text,CONTACT PERSON
+0,text,Ege BULUT
+0,text,CONTACT NUMBER
+0,text,180315019
+0,text,
+1,text,Normal text
+1,text,Dark text
+1,text,Very dark text
+1,text,Very dark and small text
+1,text,
+0,image,Very Dark Image Text (this is an image)
+0,image,
+1,image,Very bright text image (this is an image)
+1,image,
+2,image,QUANTITY
+2,image,10 PALLET
+2,image,
+2,image,5 PALLET
+2,image,10 PALLET
+2,image,24 PACKAGES
+2,image,
+2,image,PRICE
+2,image,248.0
+2,image,
+2,image,124.0
+2,image,300.0
+2,image,
+2,image,100.0
+2,image,
+2,image,DESCRIPTION
+2,image,PINEAPPLE
+2,image,
+2,image,PINEAPPLE
+2,image,CHERRY
+2,image,
+2,image,STRAWBERRIES
+2,image,
+2,image,WEIGHT
+2,image,100 KGS
+2,image,
+2,image,50 KGS
+2,image,40 KGS
+2,image,12 KGS
+2,image,
